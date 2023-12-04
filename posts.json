@@ -1,7 +1,8 @@
 {
   "posts": [
     {
-      "name": "example.html"
+      "name": "example.html",
+      "link": "https://realskyquest.github.io/posts/example.html"
     }
   ]
 }
