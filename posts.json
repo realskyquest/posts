@@ -1,14 +1,1 @@
-{
-   "posts":[
-      {
-         "name":"example.html",
-         "link":"https://realskyquest.github.io/posts/example.html",
-         "content":"<h1>Hello, world!</h1>"
-      },
-      {
-         "name":"example2.html",
-         "link":"https://realskyquest.github.io/posts/example2.html",
-         "content":"<h1>Hello, world2!</h1>"
-      }
-   ]
-}
+3
